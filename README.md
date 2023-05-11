@@ -34,7 +34,9 @@ We Imported the necessary Libraries, Loaded & Inspected the Datasets, then conve
 ## Data Modelling
 
 We tested the different models and based on the accuracy score we settled on the KNN classifier
+
 Confusion Matrix for the KNN Classifier as below:
+
 ![image](https://github.com/MaryMurugami/PHASE_3_PROJECT/assets/122040156/098e474c-7d9d-446a-b81e-c2ae2208237e)
 
 ## Recommendations
@@ -43,7 +45,9 @@ For large dataset, data cleaning is key to ensure data quality prior to applying
 The analysis showed that data collected should highlight more on non-functional pumps or those in need of repair so that they can plan resource allocation for repairs and maintenance
 
 CONCLUSION/SUGGESTIONS
+
 Areas requiring improvement to further increase our preffered models' predictive power:
+
 - Further Tuning: More fine tuning to improve model accuracy
 - Try More Classifiers & Consider using more complex ensemble models (Bagging, Stacking)
 - Consider using more features provided in Original dataset
