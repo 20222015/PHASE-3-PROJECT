@@ -44,7 +44,7 @@ For large complex datasets like the Tanzania wells data, which had 59,400 observ
 For large dataset, data cleaning is key to ensure data quality prior to applying ML algorithms, in this data we dropped variables like latitude, longitude, district codes etc. which were not necessary for our model. The characteristic of the dataset is determined by the data type and goal of analysis, e.g. For the Tanzania wells data set we used Decision tress KNN was the best model it had 73.9%  accuracy score meaning the model correctly predicted the classification levels
 The analysis showed that data collected should highlight more on non-functional pumps or those in need of repair so that they can plan resource allocation for repairs and maintenance
 
-CONCLUSION/SUGGESTIONS
+## CONCLUSION/SUGGESTIONS
 
 Areas requiring improvement to further increase our preffered models' predictive power:
 
