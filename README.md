@@ -6,19 +6,19 @@ Tanzania is an East African developing country known for its vast wilderness are
 
 ### OBJECTIVE
 
-1.1.0
+**1.1.0**
 Main Objective: To predict the condition of water wells in Tanzania using information about the pumps, installation dates, and location. The information gathered will be used to provide insights to the Tanzanian government and decision-makers on how to plan in the future for the installation, repair, and maintenance of wells.
 
-1.1.1
+**1.1.1**
 To identify wells that are in need of repair or have failed completely, which could help the government or NGOs to plan and prioritize the maintenance and repair work.
 
-1.1.2
+**1.1.2**
 To analyze the data, then identify patterns and trends to enable the Tanzanian government to make informed decisions on where new wells can be built and ideal locations.
 
-1.1.3
+**1.1.3**
 To Develop a machine learning classifier model to predict the status of water wells in Tanzania.
 
-1.1.4
+**1.1.4**
 The model should be able to predict which pumps are functional, which need some repairs, and which don't work at all.
 
 ## DATA UNDERSTANDING
@@ -42,6 +42,8 @@ We Imported the necessary Libraries, Loaded & Inspected the Datasets, then conve
 ## DATA MODELING
 
 We tested the different models and based on the accuracy score we settled on the KNN classifier
+
+![image](https://github.com/MarvinAgumba/CLASSIFICATION-MODEL/assets/122484885/9bdeb92c-7e35-4ab2-bb11-ca9a31b09ad9)
 
 Confusion Matrix for the KNN Classifier as below:
 
