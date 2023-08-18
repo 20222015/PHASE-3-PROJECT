@@ -45,10 +45,6 @@ We tested the different models and based on the accuracy score we settled on the
 
 ![image](https://github.com/MarvinAgumba/CLASSIFICATION-MODEL/assets/122484885/9bdeb92c-7e35-4ab2-bb11-ca9a31b09ad9)
 
-Confusion Matrix for the KNN Classifier as below:
-
-![image](https://github.com/MaryMurugami/PHASE_3_PROJECT/assets/122040156/098e474c-7d9d-446a-b81e-c2ae2208237e)
-
 ## RECOMMENDATIONS
 
 For large complex datasets like the Tanzania wells data, which had 59,400 observations, simple data analysis using Excel would be difficult, so Machine Learning is ideal because it is used for large complex datasets allowing the visualization of patterns and relationships that would ideally be missed by simple data analysis methods.
