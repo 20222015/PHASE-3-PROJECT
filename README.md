@@ -8,12 +8,16 @@ Tanzania is an East African developing country known for its vast wilderness are
 
 1.1.0- Main Objective
 To predict the condition of water wells in Tanzania using information about the pumps, installation dates and location. The information gathered will be used to provide insights to the Tanzanian government and decision makers on how to plan in future for the installation, repair and maintenace of wells.
+
 1.1.1
 To identify wells that are in need of repair or have failed completely, which could help the government or NGOs to plan and prioritize the maintenance and repair work.
+
 1.1.2
 To analyze the data, then identify patterns and trends to enable the Tanzanian government make informed decisions on where new wells can be built and ideal locations.
+
 1.1.3
 To Develop a machine learning classifier model to predict the status of water wells in Tanzania.
+
 1.1.4
 The model shoud be able to predict which pumps are functional, which need some repairs, and which don't work at all.
 
@@ -30,6 +34,8 @@ We Imported the necessary Libraries, Loaded & Inspected the Datasets, then conve
 -Here we needed to understand the prevalence and percentage of functional wells, those that need repair and the non-functioning ones.
 - This will help us prioritize maintenance, those that require repair and where resources can be allocated.
 - With time, the Tanzanian Government can monitor and track changes in the wells over time by comparing the percentages throughout the different periods and any shifts in the condition of the water wells.
+- ![image](https://github.com/MarvinAgumba/CLASSIFICATION-MODEL/assets/122484885/2a1bcf86-90a1-41cd-a780-5236a63d44fb)
+
 
 ## Data Modelling
 
